@@ -8,6 +8,7 @@ function App() {
   
     <h1>Friday Night Lite</h1>
     <p>testing</p>
+    <p>1-2-3</p>
 
     </div>
   );
